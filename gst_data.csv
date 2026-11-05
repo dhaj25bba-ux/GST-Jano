@@ -1,0 +1,4 @@
+hsn,item,keywords,rate_pct,tax_class,old_rate_pct,change_date,source_url,last_checked,verified,notes,price,price_type,price_seller,price_source,price_date,price_incl_gst
+9999A1,Sample Item A (TEST ONLY - replace),sample a;namuna a,18,GST Due,12,2025-01-01,https://taxinformation.cbic.gov.in/,2025-01-01,NO,Test row. Replace with verified CBIC data.,,,,,,
+9999B2,Sample Item B (TEST ONLY - replace),sample b;namuna b,5,GST Due,,,https://taxinformation.cbic.gov.in/,2025-01-01,NO,Test row. Replace with verified CBIC data.,,,,,,
+9999C3,Sample Item C (TEST ONLY - replace),sample c;namuna c,,Nil Rate,,,https://taxinformation.cbic.gov.in/,2025-01-01,NO,Test row. Replace with verified CBIC data.,,,,,,
